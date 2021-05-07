@@ -6,13 +6,13 @@
   #home {
     height: 95vh;
     background-image: linear-gradient(rgba(0, 0, 0, 0.25), rgba(50, 50, 50, 0.25)),
-      url("Payment/bg.jpg");
+      url("../Payment/bg.jpg");
     background-position: center;
     background-size: center;
   }
   
   .support-area {
-    background-image: url("Payment/bg.jpg");
+    background-image: url("../Payment/bg.jpg");
     background-position: center;
     background-size: center;
   
